@@ -1,4 +1,4 @@
-# Image Classification algorithm comparison
+# Image Classification Algorithm Comparison
 
 __TL;DR__ Dataset and Script for analysing and comparing different methods of machine learning in categorizing faces with/no mask
 
